@@ -11,6 +11,14 @@
 
 ## 🖥️ System Architecture & Visual Wiring Layout
 
+### 🔌 Graphical Schematic & Pinout Diagrams
+
+![How To Make a DC Fan Speed Controller using Arduino and IR Remote](How%20To%20Make%20a%20DC%20Fan%20Speed%20Controller%20using%20Arduino%20and%20IR%20Remote.png)
+
+![15A 400W MOSFET Trigger Switch Drive Module](15A%20400W%20MOSFET%20Trigger%20Switch%20Drive%20Module.png)
+
+
+
 ```
 ┌── HIGH-CURRENT MOSFET PWM SPEED REGULATION ─────────────────────────────┐
 │                                                                         │
